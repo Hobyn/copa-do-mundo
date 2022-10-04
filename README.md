@@ -1,4 +1,4 @@
-<h1> Site para treinar display Flex / slider carousel / cards </h1>
+<h1> LP para treinar display Flex / slider carousel / cards </h1>
 
 <h2> LP desenvolvida pasa aplicação de conhecimento de flex e js </h2>
 <h3> foi usado a biblioteca do <a href="https://swiperjs.com/">Swiper</a> para ser feito o carousel dos slides</h3>
